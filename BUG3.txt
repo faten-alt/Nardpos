@@ -1,0 +1,6 @@
+Performance Testing : after make some load on the site by placing orders with short periode from each other  this message displayed 
+
+
+" Please wait several seconds before placing a new order (already placed another order several seconds ago)."
+
+Kindly find the screenshot : Load

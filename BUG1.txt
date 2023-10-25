@@ -1,0 +1,14 @@
+Bug No 1 
+Test case : ● Verify the user cannot register with invalid information.
+Steps :
+*Go to register link 
+*Fill the first and last using invalid data like 12
+*Fill the rest of the fields 
+*Press Register button 
+
+Excpected result : the system display  hint that this field only accept character
+
+Actual result : Your registration completed
+
+Kindly check the screenshoot : name 
+*********************************

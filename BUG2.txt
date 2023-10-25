@@ -1,0 +1,18 @@
+Bug No 2 
+Test case :● Verify the checkout process fails with invalid payment information.
+Steps :
+*Go to the site link :  https://demo.nopcommerce.com/ 
+*Logged in using valid data 
+*Add item to shopping cart 
+*Go to cart 
+*Press on checkout 
+*adding the shipping adress 
+*Press next 
+*Select Payment card like AMEX 
+*Fill card number using visa test number 4111111111111
+*Fill the rest of fields and press submit the order 
+
+
+Excpected result : checkout should not  be happened that because the type of card not applicable with the card number 
+Actual result : checkout happened successfully
+

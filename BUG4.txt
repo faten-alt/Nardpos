@@ -1,0 +1,9 @@
+Prerequesite : Logged in user has been logged since 1 hour
+Steps :
+*Go to the site link :https://demo.nopcommerce.com/
+*Logged in using the user that mentioned in the prerequesite 
+
+Excpected result : Logged in should happen successfullyActual result : Login was unsuccessful and this hit dispalyed." Please correct the errors and try again. No customer account found" + Order number has been reset to 1031
+
+Kindly check this screenshot : loged in using valid email
+
